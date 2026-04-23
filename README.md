@@ -1,4 +1,4 @@
-# maternal-health-risk
+# Predicting Maternal Health Risk Using Machine Learning
 
 ### Project Overview
 
@@ -7,14 +7,14 @@ This project aims to predict maternal health risks based on a dataset from UCI M
 The goal is to predict the health risk level of mothers during pregnancy using machine learning models.
 
 ### Technologies Used
-**pandas**, **numpy** – Data manipulation and analysis.
-**scikit-learn** – Machine learning algorithms and model evaluation.
-**matplotlib**, **seaborn** – Data visualization.
+- **pandas**, **numpy** – Data manipulation and analysis.
+- **scikit-learn** – Machine learning algorithms and model evaluation.
+- **matplotlib**, **seaborn** – Data visualization.
 
 ### Models Implemented
-**Ordinal Logistic Regression**
-**Random Forest**
-**XGBoost**
+- **Ordinal Logistic Regression**
+- **Random Forest**
+- **XGBoost**
 
 ### Key Steps in the Project
 - Exploratory Data Analysis (EDA) and data visualization.
